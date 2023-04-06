@@ -1,0 +1,6 @@
+gem 'bundle'
+gem 'rspec'
+gem 'selenium'
+gem 'selenium-webdriver'
+gem 'waiter'
+gem 'webdrivers', '~> 5.0'
